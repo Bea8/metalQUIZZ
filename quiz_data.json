@@ -1,0 +1,102 @@
+[{
+        "question": "The music video to <i>Seasons in the Abyss</i> by Slayer was filmed in",
+        "answer": [
+            { "id": 0, "text": "Republic of South Africa" },
+            { "id": 1, "text": "Egipt" },
+            { "id": 2, "text": "Nevada" },
+            { "id": 3, "text": "New Mexico" }
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Who recorded the classic math-core album <i>Jane Doe</i>:",
+        "answer": [
+            { "id": 0, "text": "Botch" },
+            { "id": 1, "text": "The Dillinger Escape Plan" },
+            { "id": 2, "text": "Converge" },
+            { "id": 3, "text": "Gaza" }
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Death's last studio album, <i>The Sound of Perserverance</i>, was the only one to feature this drummer:",
+        "answer": [
+            { "id": 0, "text": "Bill Andrews" },
+            { "id": 1, "text": "Richard Christy" },
+            { "id": 2, "text": "Gene Hoglan" },
+            { "id": 3, "text": "Chris Reifert" }
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Devin Townsend recorded an album with this guitar virtuoso:",
+        "answer": [
+            { "id": 0, "text": "Yngwie Malmsteem" },
+            { "id": 1, "text": "John Petrucci" },
+            { "id": 2, "text": "Joe Sariani" },
+            { "id": 3, "text": "Steve Vai" }
+        ],
+        "correct": 3
+    },
+    {
+        "question": "System of a Down musicians originate from this European country:",
+        "answer": [
+            { "id": 0, "text": "Albania" },
+            { "id": 1, "text": "Armenia" },
+            { "id": 2, "text": "Moldova" },
+            { "id": 3, "text": "Romania" }
+        ],
+        "correct": 1
+    },
+    {
+        "question": "King Diamond's real name is:",
+        "answer": [
+            { "id": 0, "text": "Tore Andre Flo" },
+            { "id": 1, "text": "Ola Eglund" },
+            { "id": 2, "text": "Kim Bendix Petersen" },
+            { "id": 3, "text": "Vegard Sverre Tveitan" }
+        ],
+        "correct": 2
+    },
+    {
+        "question": "<i>F.O.A.D</i>, the album by Darkthrone, is an initialism for:",
+        "answer": [
+            { "id": 0, "text": "Fighting Over Abhorrent Dreams" },
+            { "id": 1, "text": "Flames Occult Angels Die" },
+            { "id": 2, "text": "Fury of Ancient Dragons" },
+            { "id": 3, "text": "Fuck of and Die" }
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Abbath, Immortal's ex-frontman, used to also play in:",
+        "answer": [
+            { "id": 0, "text": "Old Funeral" },
+            { "id": 1, "text": "Dark Funeral" },
+            { "id": 2, "text": "Meta Funeral" },
+            { "id": 3, "text": "Black Funeral" }
+        ],
+        "correct": 0
+    },
+    {
+        "question": "<i>Iron Gland</i>, a song by Alice in Chains hidden in some releases of the <i>Dirt</i> album, features this famous thrash metal vocalist:",
+        "answer": [
+            { "id": 0, "text": "Chuck Billy" },
+            { "id": 1, "text": "Tom Araya" },
+            { "id": 2, "text": "John Bush" },
+            { "id": 3, "text": "James Hetfield" }
+        ],
+        "correct": 1
+    },
+    {
+        "question": "<i>Sepultura</i> is Portuguese for:",
+        "answer": [
+            { "id": 0, "text": "Seven" },
+            { "id": 1, "text": "Tomb" },
+            { "id": 2, "text": "Grave" },
+            { "id": 3, "text": "Sepsis" }
+        ],
+        "correct": 2
+    }
+
+]
