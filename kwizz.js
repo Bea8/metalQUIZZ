@@ -21,17 +21,12 @@ $(function() {
                     $("button").attr("id", function(i) {
                         return i;
                     });
-
                 });
             }
-
-
 
             $.content(counter);
 
             var correctCounter = 0;
-
-
 
             $(document).on("click", "button", function() {
 
@@ -48,7 +43,6 @@ $(function() {
                         $.content(counter);
                     }, 500);
 
-
                 } else {
                     $(this).addClass("wrong");
 
@@ -61,7 +55,6 @@ $(function() {
                         counter++;
                         $.content(counter);
                     }, 2000);
-
                 }
 
                 if (counter === data.length - 1) {
@@ -70,11 +63,8 @@ $(function() {
                     setTimeout(function() {
                         window.location.replace("NextQ.html");
                     }, 1300);
-
                 }
-
             });
-
         }
     });
 });
