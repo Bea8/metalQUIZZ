@@ -136,7 +136,7 @@ button:hover {
 
 .correct {
     box-shadow: inset 0 0 0 10px rgb(51, 255, 91);
-    background-image: url(correct.png);
+    background-image: url(img/correct.png);
     background-position: left;
     background-repeat: no-repeat;
     background-size: contain;
@@ -144,7 +144,7 @@ button:hover {
 
 .wrong {
     box-shadow: inset 0 0 0 10px rgb(255, 48, 0);
-    background-image: url(wrong.png);
+    background-image: url(img/wrong.png);
     background-position: left;
     background-repeat: no-repeat;
     background-size: contain;
